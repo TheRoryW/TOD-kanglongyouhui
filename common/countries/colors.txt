@@ -258,10 +258,6 @@ FWA = {
 	color = rgb { 56  113  228 }
 	color_ui = rgb { 56  113  228 }
 }
-SPR =  {
-	color = rgb { 242  205  94 }
-	color_ui = rgb { 242  205  94 }
-}
 KSN = {
 	color = rgb { 218  210  116 }
 	color_ui = rgb { 218  210  116 }
@@ -277,6 +273,10 @@ SWI = {
 DEN = {
 	color = rgb { 255  200  52 }
 	color_ui = rgb { 255  200  52 }
+}
+NOR = {
+	color = rgb { 125 142 217 }
+	color_ui = rgb { 125 142 217 }
 }
 FIN = {
 	color = rgb { 225  14  19 }
@@ -297,14 +297,6 @@ GER = {
 LAM = {
 	color = rgb { 125  14  19 }
 	color_ui = rgb { 125  14  19 }
-}
-SAX = {
-	color = rgb { 40  230  58 }
-	color_ui = rgb { 40  230  58 }
-}
-BAV = {
-	color = rgb { 144  185  217 }
-	color_ui = rgb { 144  185  217 }
 }
 ITA = {
 	color = rgb { 67  127  63 }
